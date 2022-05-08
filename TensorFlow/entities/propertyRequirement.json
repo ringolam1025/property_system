@@ -1,0 +1,9 @@
+{
+  "id": "15e2b78e-5c47-4044-98a4-3267cac547cc",
+  "name": "propertyRequirement",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "986567f5-6562-486f-b5b1-ea4772a6e98f",
+  "name": "SSDType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

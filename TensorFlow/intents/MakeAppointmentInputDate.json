@@ -1,0 +1,96 @@
+{
+  "id": "9fb81ec8-2be0-490b-bf89-8919119edbc7",
+  "parentId": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "rootParentId": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "name": "MakeAppointmentInputDate",
+  "auto": true,
+  "contexts": [
+    "MakeAppointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeAppointment.MakeAppointment-custom",
+      "affectedContexts": [
+        {
+          "name": "MakeAppointmentInputDate-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "468b2f3e-ab9c-4891-b9d3-8e30344cca18",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "appointment_date",
+          "value": "$appointment_date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e805e9dd-ed33-4f90-92d9-f5f3581f9448",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "appointment_time",
+          "value": "$appointment_time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "66a94b2c-69dd-48e0-bf2f-3c3031e2f51a",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date_range",
+          "value": "$date_range",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4e962351-bfa9-4cfb-9090-c010fc9a949d",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

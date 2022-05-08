@@ -1,0 +1,16 @@
+[
+  {
+    "value": "building_size",
+    "synonyms": [
+      "building_size",
+      "building size"
+    ]
+  },
+  {
+    "value": "actual_size",
+    "synonyms": [
+      "actual_size",
+      "actual size"
+    ]
+  }
+]

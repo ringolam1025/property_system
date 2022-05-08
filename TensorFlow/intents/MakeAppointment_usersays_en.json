@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a75ba488-c03a-4646-92ca-891ceca8b4f7",
+    "data": [
+      {
+        "text": "ask make appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "P20000332",
+        "alias": "property_id",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f25ee17-5a67-48aa-908e-894b9c18dcf2",
+    "data": [
+      {
+        "text": "When I can have a site visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95a77b11-3868-4c55-9d3a-8efb2bf40ca3",
+    "data": [
+      {
+        "text": "please show me agent available timeslot for the site visit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a20380-9f9f-4a37-92ed-b93ca31cd469",
+    "data": [
+      {
+        "text": "help me to make an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8915a0d-aa5a-49a0-a80a-35bba690b10e",
+    "data": [
+      {
+        "text": "ask to make an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1328278b-b6d1-474b-b6b3-63e686b1dba0",
+    "data": [
+      {
+        "text": "ask appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "P20000332",
+        "alias": "property_id",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

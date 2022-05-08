@@ -1,0 +1,37 @@
+{
+  "id": "2af12c41-4c4a-4b0a-a32a-1f9fc93c5e95",
+  "parentId": "9fb81ec8-2be0-490b-bf89-8919119edbc7",
+  "rootParentId": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "name": "MakeAppointmentInputDateNo",
+  "auto": true,
+  "contexts": [
+    "MakeAppointmentInputDate-followup",
+    "propertyDetails"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeAppointment.MakeAppointment-custom.MakeAppointmentInputDate-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

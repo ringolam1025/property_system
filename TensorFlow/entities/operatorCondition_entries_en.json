@@ -1,0 +1,24 @@
+[
+  {
+    "value": "below",
+    "synonyms": [
+      "below",
+      "less than",
+      "lower than",
+      "lower",
+      "no more than",
+      "not more than"
+    ]
+  },
+  {
+    "value": "more",
+    "synonyms": [
+      "more",
+      "more than",
+      "higher",
+      "higher than",
+      "at least",
+      "over"
+    ]
+  }
+]

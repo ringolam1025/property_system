@@ -1,0 +1,56 @@
+{
+  "id": "820bc906-65ce-4aa0-b9f3-750ce698c919",
+  "name": "Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d0fea3a4-ae53-47db-810e-a3352587a741",
+          "required": false,
+          "dataType": "@InquiryType",
+          "name": "InquiryType",
+          "value": "$InquiryType",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Which one you want to know more?",
+          "replies": [
+            "Stamp Duty",
+            "Mortgage",
+            "Our Agent"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "42b49baa-a3b4-42a6-a0aa-8d075aa57c5f",
+    "data": [
+      {
+        "text": "I want to ask some question related to ",
+        "userDefined": false
+      },
+      {
+        "text": "stamp duty",
+        "alias": "InquiryType",
+        "meta": "@InquiryType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4509a454-cb55-4f0d-9e03-7c92f4cbe92c",
+    "data": [
+      {
+        "text": "I have some question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6656d168-0f95-49ee-b3b8-851e78df0f2e",
+    "data": [
+      {
+        "text": "inquiry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

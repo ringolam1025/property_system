@@ -1,0 +1,37 @@
+{
+  "id": "a149d107-2234-4361-87b8-f80c31eedf7d",
+  "parentId": "30e867ee-fb36-47a6-a763-f26cc7a82c43",
+  "rootParentId": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "name": "JoinMemberYes",
+  "auto": true,
+  "contexts": [
+    "MakeAppointmentInputDateYes-followup",
+    "disable"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeAppointment.MakeAppointment-custom.MakeAppointmentInputDate-yes.MakeAppointmentInputDateYes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

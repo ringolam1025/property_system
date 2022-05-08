@@ -1,0 +1,55 @@
+{
+  "id": "0520954a-92eb-4079-8288-877fdeab2d46",
+  "parentId": "edf65774-4d04-4cd6-9f3c-60d2faa01f33",
+  "rootParentId": "609e1a71-c226-419d-925a-a53c5deeffcf",
+  "name": "StampDutyIsFirsttime",
+  "auto": true,
+  "contexts": [
+    "StampDutyIsSSD-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PropertyStampDuty.PropertyStampDuty-custom.StampDutyIsBSD-custom.StampDutyIsSSD-custom",
+      "affectedContexts": [
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9048962d-6fac-4970-9f6c-c1e67498fd16",
+          "required": false,
+          "dataType": "@buyerType",
+          "name": "buyerType",
+          "value": "$buyerType",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

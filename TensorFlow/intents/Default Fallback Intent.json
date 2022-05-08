@@ -1,0 +1,87 @@
+{
+  "id": "d923b677-382f-4859-b7db-f4f20d8e9259",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?",
+            "Sorry, what was that?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Can you say that again?",
+            "Sorry, can you say that again?",
+            "Sorry, could you say that again?",
+            "I missed what you said. What was that?",
+            "I didn\u0027t get that. Can you say it again?"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "I can help you to",
+          "replies": [
+            "Search property"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": [
+            "對唔住，我聽唔明你嘅問題。",
+            "我好似誤解咗你嘅說話。",
+            "我唔係聽得好清楚你講嘅最後幾隻字。",
+            "我搞唔清你嘅意思。",
+            "我聽唔明你嘅說話。"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

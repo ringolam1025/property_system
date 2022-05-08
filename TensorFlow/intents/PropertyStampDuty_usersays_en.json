@@ -1,0 +1,90 @@
+[
+  {
+    "id": "e825f5f6-5d52-4a4c-8434-da87802eeb9f",
+    "data": [
+      {
+        "text": "ask stamp duty ",
+        "userDefined": false
+      },
+      {
+        "text": "P20000332",
+        "alias": "property_id",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fa7da24-345d-4056-a410-a72c3f7e53e6",
+    "data": [
+      {
+        "text": "ask stamp duty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4e3cd2d-cfd7-453b-b9ba-394466a3214c",
+    "data": [
+      {
+        "text": "I would like to know more information related to the stamp duty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8517d2f4-3052-40e3-a010-33abc4175180",
+    "data": [
+      {
+        "text": "please let me know how much I need to pay for the stamp duty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d0b8f86-8fa8-4aec-b5e0-079e3c64d16a",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "P20000332",
+        "alias": "property_id",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " stamp duty, please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c84c809-0843-4fde-baa7-81265e8c8991",
+    "data": [
+      {
+        "text": "How about the stamp duty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

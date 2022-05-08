@@ -1,0 +1,170 @@
+[
+  {
+    "id": "f9a98bf7-8c9e-42d1-8558-e49cbd7f561f",
+    "data": [
+      {
+        "text": "No property hold",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3867205-52ab-4ec9-b71b-d2c5c6675e2c",
+    "data": [
+      {
+        "text": "More than 36 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b3c5352-2202-44f6-92c0-40112cfc3ffd",
+    "data": [
+      {
+        "text": "24 to 36 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d96ae930-e202-4f1c-bb96-9f508625c604",
+    "data": [
+      {
+        "text": "12 to 24 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97c0782a-921e-4c14-918f-e10ad7cd8044",
+    "data": [
+      {
+        "text": "6 to 12 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "165f6adf-d42f-4eae-b0d8-8b90689523b5",
+    "data": [
+      {
+        "text": "Less than 6 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "721bf81e-694f-44e6-8b41-ee37d203b448",
+    "data": [
+      {
+        "text": "No",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be14f360-7b0c-452f-ade6-f4b7b822276a",
+    "data": [
+      {
+        "text": "\u003e 36 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c55cf8d-c2fe-4bfd-a713-ac723fee5d53",
+    "data": [
+      {
+        "text": "\u003e 24 and \u003c 36 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98fc621e-4203-4641-91f2-477a5315e294",
+    "data": [
+      {
+        "text": "\u003e 12 and \u003c 24 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6f3adb7-6d8a-45ab-b2f4-bf8fe9923f9a",
+    "data": [
+      {
+        "text": "\u003e 6 and \u003c 12 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e927bf55-12f8-4c34-9809-93169911456f",
+    "data": [
+      {
+        "text": "\u003c 6 months",
+        "alias": "SSDType",
+        "meta": "@SSDType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

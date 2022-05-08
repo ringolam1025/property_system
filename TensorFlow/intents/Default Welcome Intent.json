@@ -1,0 +1,72 @@
+{
+  "id": "526ed857-42b1-4e46-9def-2fbc826a07f3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi, May I have your name?",
+            "Hello, May I know your name?",
+            "Hello, may I have your name?",
+            "Hi, may I know your name?",
+            "Hello, what is your name?",
+            "Hi, how can I call you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi, May I have your name?",
+            "Hello, May I know your name?",
+            "Hello, may I have your name?",
+            "Hi, may I know your name?",
+            "Hello, what is your name?",
+            "Hi, how can I call you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": [
+            "嘿！",
+            "你好！",
+            "嘿！ 好久不見！",
+            "歡迎歸來。",
+            "嘿！歡迎你回來。"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_WELCOME"
+    },
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

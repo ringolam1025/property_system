@@ -1,0 +1,9 @@
+{
+  "id": "6592c17e-7a1e-4937-a876-71455407f4f5",
+  "name": "tranType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

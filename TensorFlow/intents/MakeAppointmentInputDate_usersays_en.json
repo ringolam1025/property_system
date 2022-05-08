@@ -1,0 +1,281 @@
+[
+  {
+    "id": "0460eec5-892c-4d62-a09b-28a614a41782",
+    "data": [
+      {
+        "text": "I am not available on ",
+        "userDefined": false
+      },
+      {
+        "text": "2020/03/20 - 2020/04/01",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a87a386-379f-4787-acc7-ff022c6d0252",
+    "data": [
+      {
+        "text": "I am only available on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday morning",
+        "alias": "date_range",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56f3fb3e-dee3-408d-8af6-0b997bf7b70a",
+    "data": [
+      {
+        "text": "two days after tomorrow",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c5cb47e-d423-4e21-845f-fcac9309c726",
+    "data": [
+      {
+        "text": "the day after tomorrow",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bfaee8e-f25f-4fb7-b618-ba95ff77bdff",
+    "data": [
+      {
+        "text": "Monday night",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffc10367-61be-4fb0-9a51-94cce965cba1",
+    "data": [
+      {
+        "text": "9:00",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4436b74d-c4d1-4f6d-8c1b-ae80f09ed82e",
+    "data": [
+      {
+        "text": "21:00",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3d7654f-654b-455a-905b-da7ed8692d42",
+    "data": [
+      {
+        "text": "1300",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f19a2b7-1b37-4130-964c-0a74c9938137",
+    "data": [
+      {
+        "text": "12noon",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d2cc30b-e8e2-479c-a14e-30f7e7ea6006",
+    "data": [
+      {
+        "text": "2020 Apr 30",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08d8f45f-2555-42e1-a292-3b6dc67dbaf9",
+    "data": [
+      {
+        "text": "Tomorrow",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b9ebbe0-1ed3-43f8-8718-3149905d13a4",
+    "data": [
+      {
+        "text": "2020/05/03",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "12pm",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "803a8358-56bd-46fd-b689-83fe824ec8f7",
+    "data": [
+      {
+        "text": "I am not available ",
+        "userDefined": false
+      },
+      {
+        "text": "next Monday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", how about on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a219d61-5ede-4313-b7bd-3900c1c2ffe8",
+    "data": [
+      {
+        "text": "next Monday",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51ee4dbf-d0af-41ce-903e-477f1afbc6a0",
+    "data": [
+      {
+        "text": "please help me to arrange a meeting in ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12:00pm",
+        "alias": "appointment_time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bdfcb24-8185-4cf0-8ca4-a6e4b341abb6",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "appointment_date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

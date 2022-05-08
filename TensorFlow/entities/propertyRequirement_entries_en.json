@@ -1,0 +1,156 @@
+[
+  {
+    "value": "seaview",
+    "synonyms": [
+      "seaview",
+      "sea view",
+      "view of the sea",
+      "ocean view",
+      "view to the sea",
+      "overlooking the sea",
+      "views to the sea",
+      "view over the sea",
+      "views over the sea",
+      "view of the ocean",
+      "sea-view",
+      "view on the sea",
+      "views of the sea",
+      "views of the ocean",
+      "facing the sea",
+      "overlooking the ocean",
+      "seaview calling",
+      "sea views",
+      "vocean-view",
+      "vue mer",
+      "see the ocean",
+      "oceanfront",
+      "nearly sea"
+    ]
+  },
+  {
+    "value": "MTR",
+    "synonyms": [
+      "MTR",
+      "near mtr",
+      "nearly mtr",
+      "mtr station nearly"
+    ]
+  },
+  {
+    "value": "Bus",
+    "synonyms": [
+      "Bus",
+      "near bus",
+      "nearly bus",
+      "bus station nearly"
+    ]
+  },
+  {
+    "value": "mountainview",
+    "synonyms": [
+      "mountainview",
+      "mountain view",
+      "view of the mountain",
+      "view to the mountain",
+      "overlooking the mountain",
+      "views to the mountain",
+      "view over the mountain",
+      "views over the mountain",
+      "mountain-view",
+      "view on the mountain",
+      "views of the mountain",
+      "facing the mountain",
+      "mountainview calling",
+      "mountain views",
+      "vmountain-view",
+      "see the mountain",
+      "mountainfront",
+      "nearly mountain"
+    ]
+  },
+  {
+    "value": "courtyardview",
+    "synonyms": [
+      "courtyardview",
+      "courtyard view",
+      "view of the courtyard",
+      "view to the courtyard",
+      "overlooking the courtyard",
+      "views to the courtyard",
+      "view over the courtyard",
+      "views over the courtyard",
+      "courtyard-view",
+      "view on the courtyard",
+      "views of the courtyard",
+      "facing the courtyard",
+      "courtyardview calling",
+      "courtyard views",
+      "see the courtyard",
+      "courtyardfront",
+      "inner gardenview",
+      "inner garden view",
+      "view of the inner garden",
+      "overlooking the inner garden",
+      "views to the inner garden",
+      "view over the inner garden",
+      "views over the inner garden",
+      "inner garden-view",
+      "view on the inner garden",
+      "views of the inner garden",
+      "facing the inner garden",
+      "inner courtyardview calling",
+      "inner garden views",
+      "nearly courtyard"
+    ]
+  },
+  {
+    "value": "shopping",
+    "synonyms": [
+      "market",
+      "super market",
+      "super-market",
+      "supermarket",
+      "shopping mall",
+      "maill",
+      "mall nearly",
+      "nearly mall"
+    ]
+  },
+  {
+    "value": "park",
+    "synonyms": [
+      "park",
+      "garden",
+      "green place",
+      "green",
+      "grass",
+      "woodland",
+      "wood land",
+      "wood-land",
+      "playground",
+      "play-ground",
+      "play ground",
+      "public park",
+      "landscape gargen",
+      "nearly park"
+    ]
+  },
+  {
+    "value": "school",
+    "synonyms": [
+      "academy",
+      "institute",
+      "university",
+      "college",
+      "secondary school",
+      "secondary-school",
+      "secondaryschool",
+      "primary school",
+      "primary-school",
+      "primaryschool",
+      "faculty",
+      "nearly school",
+      "nearly secondary school"
+    ]
+  }
+]

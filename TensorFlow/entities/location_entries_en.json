@@ -1,0 +1,438 @@
+[
+  {
+    "value": "Chai Wan",
+    "synonyms": [
+      "Chai Wan",
+      "CW"
+    ]
+  },
+  {
+    "value": "Heng Fa Chuen",
+    "synonyms": [
+      "Heng Fa Chuen"
+    ]
+  },
+  {
+    "value": "Shau Kei Wan",
+    "synonyms": [
+      "Shau Kei Wan"
+    ]
+  },
+  {
+    "value": "Sai Wan Ho",
+    "synonyms": [
+      "Sai Wan Ho",
+      "Taikoo"
+    ]
+  },
+  {
+    "value": "Quarry Bay",
+    "synonyms": [
+      "Quarry Bay"
+    ]
+  },
+  {
+    "value": "North Point",
+    "synonyms": [
+      "North Point",
+      "Fortress Hill"
+    ]
+  },
+  {
+    "value": "Braemar Hill",
+    "synonyms": [
+      "Braemar Hill",
+      "North Point Midlevel"
+    ]
+  },
+  {
+    "value": "Jardine Lookout",
+    "synonyms": [
+      "Jardine Lookout",
+      "Tai Hang"
+    ]
+  },
+  {
+    "value": "Happy Valley",
+    "synonyms": [
+      "Happy Valley",
+      "Mid Level East"
+    ]
+  },
+  {
+    "value": "Wan Chai",
+    "synonyms": [
+      "Wan Chai",
+      "Causeway Bay"
+    ]
+  },
+  {
+    "value": "Tin Hau",
+    "synonyms": [
+      "Tin Hau"
+    ]
+  },
+  {
+    "value": "Central Mid-Levels",
+    "synonyms": [
+      "Central Mid-Levels",
+      "Admiralty"
+    ]
+  },
+  {
+    "value": "Sheung Wan",
+    "synonyms": [
+      "Sheung Wan",
+      "Central"
+    ]
+  },
+  {
+    "value": "Hong Kong West",
+    "synonyms": [
+      "Hong Kong West"
+    ]
+  },
+  {
+    "value": "Western Mid-Levels",
+    "synonyms": [
+      "Western Mid-Levels"
+    ]
+  },
+  {
+    "value": "The Peak",
+    "synonyms": [
+      "The Peak"
+    ]
+  },
+  {
+    "value": "Residencebel-Air",
+    "synonyms": [
+      "Residencebel-Air",
+      "Pokfulam"
+    ]
+  },
+  {
+    "value": "Ap Lei Chau",
+    "synonyms": [
+      "Ap Lei Chau"
+    ]
+  },
+  {
+    "value": "Aberdeen",
+    "synonyms": [
+      "Aberdeen",
+      "Wong Chuk Hang"
+    ]
+  },
+  {
+    "value": "Repulse Bay",
+    "synonyms": [
+      "Repulse Bay",
+      "Shouson Hill"
+    ]
+  },
+  {
+    "value": "Tai Tam",
+    "synonyms": [
+      "Tai Tam",
+      "Shek O"
+    ]
+  },
+  {
+    "value": "Stanley",
+    "synonyms": [
+      "Stanley"
+    ]
+  },
+  {
+    "value": "Tsim Sha Tsui",
+    "synonyms": [
+      "Tsim Sha Tsui"
+    ]
+  },
+  {
+    "value": "Kowloon Station",
+    "synonyms": [
+      "Kowloon Station"
+    ]
+  },
+  {
+    "value": "Yau Ma Tei",
+    "synonyms": [
+      "Yau Ma Tei"
+    ]
+  },
+  {
+    "value": "Kingspark",
+    "synonyms": [
+      "Kingspark"
+    ]
+  },
+  {
+    "value": "Mongkok",
+    "synonyms": [
+      "Mongkok"
+    ]
+  },
+  {
+    "value": "Tai Kok Tsui",
+    "synonyms": [
+      "Tai Kok Tsui"
+    ]
+  },
+  {
+    "value": "Olympic",
+    "synonyms": [
+      "Olympic"
+    ]
+  },
+  {
+    "value": "Lai Chi Kok",
+    "synonyms": [
+      "Lai Chi Kok"
+    ]
+  },
+  {
+    "value": "Mei Foo",
+    "synonyms": [
+      "Mei Foo"
+    ]
+  },
+  {
+    "value": "Cheung Sha Wan",
+    "synonyms": [
+      "Cheung Sha Wan",
+      "Sham Shui Po"
+    ]
+  },
+  {
+    "value": "Yau Yat Chuen",
+    "synonyms": [
+      "Yau Yat Chuen"
+    ]
+  },
+  {
+    "value": "Kowloon Tong",
+    "synonyms": [
+      "Kowloon Tong",
+      "Beacon Hill"
+    ]
+  },
+  {
+    "value": "Ho Man Tin",
+    "synonyms": [
+      "Ho Man Tin"
+    ]
+  },
+  {
+    "value": "Hung Hom",
+    "synonyms": [
+      "Hung Hom"
+    ]
+  },
+  {
+    "value": "To Kwa Wan",
+    "synonyms": [
+      "To Kwa Wan"
+    ]
+  },
+  {
+    "value": "Kai Tak",
+    "synonyms": [
+      "Kai Tak"
+    ]
+  },
+  {
+    "value": "Kowloon City",
+    "synonyms": [
+      "Kowloon City"
+    ]
+  },
+  {
+    "value": "Wong Tai Sin",
+    "synonyms": [
+      "Wong Tai Sin",
+      "Lok Fu"
+    ]
+  },
+  {
+    "value": "Diamond Hill",
+    "synonyms": [
+      "Diamond Hill",
+      "San Po Kong",
+      "Ngau Chi Wan"
+    ]
+  },
+  {
+    "value": "Kowloon Bay",
+    "synonyms": [
+      "Kowloon Bay"
+    ]
+  },
+  {
+    "value": "Kwun Tong",
+    "synonyms": [
+      "Kwun Tong"
+    ]
+  },
+  {
+    "value": "Lam Tin",
+    "synonyms": [
+      "Lam Tin",
+      "Yau Tong"
+    ]
+  },
+  {
+    "value": "Lohas Park",
+    "synonyms": [
+      "Lohas Park"
+    ]
+  },
+  {
+    "value": "Tiu Keng Leng",
+    "synonyms": [
+      "Tiu Keng Leng"
+    ]
+  },
+  {
+    "value": "Hang Hau",
+    "synonyms": [
+      "Hang Hau"
+    ]
+  },
+  {
+    "value": "Po Lam",
+    "synonyms": [
+      "Po Lam",
+      "Tseung Kwan O"
+    ]
+  },
+  {
+    "value": "Sai Kung",
+    "synonyms": [
+      "Sai Kung",
+      "Clear Water Bay"
+    ]
+  },
+  {
+    "value": "Shatin",
+    "synonyms": [
+      "Shatin"
+    ]
+  },
+  {
+    "value": "Kau To Shan",
+    "synonyms": [
+      "Kau To Shan",
+      "Fotan"
+    ]
+  },
+  {
+    "value": "Ma On Shan",
+    "synonyms": [
+      "Ma On Shan"
+    ]
+  },
+  {
+    "value": "Tai Po",
+    "synonyms": [
+      "Tai Po"
+    ]
+  },
+  {
+    "value": "North",
+    "synonyms": [
+      "North"
+    ]
+  },
+  {
+    "value": "Sheung Shui",
+    "synonyms": [
+      "Sheung Shui",
+      "Fanling"
+    ]
+  },
+  {
+    "value": "Hung Shui Kiu",
+    "synonyms": [
+      "Hung Shui Kiu"
+    ]
+  },
+  {
+    "value": "Fairview",
+    "synonyms": [
+      "Fairview",
+      "Palm Springs",
+      "The Vineyard"
+    ]
+  },
+  {
+    "value": "Tin Shui Wai",
+    "synonyms": [
+      "Tin Shui Wai",
+      "TSW"
+    ]
+  },
+  {
+    "value": "Yuen Long",
+    "synonyms": [
+      "Yuen Long"
+    ]
+  },
+  {
+    "value": "Tuen Mun",
+    "synonyms": [
+      "Tuen Mun",
+      "TM"
+    ]
+  },
+  {
+    "value": "Tsuen Wan",
+    "synonyms": [
+      "Tsuen Wan"
+    ]
+  },
+  {
+    "value": "Sham Tseng",
+    "synonyms": [
+      "Sham Tseng"
+    ]
+  },
+  {
+    "value": "Ma Wan",
+    "synonyms": [
+      "Ma Wan"
+    ]
+  },
+  {
+    "value": "Kwai Chung",
+    "synonyms": [
+      "Kwai Chung"
+    ]
+  },
+  {
+    "value": "Tsing Yi",
+    "synonyms": [
+      "Tsing Yi"
+    ]
+  },
+  {
+    "value": "Discovery Bay",
+    "synonyms": [
+      "Discovery Bay"
+    ]
+  },
+  {
+    "value": "Tung Chung",
+    "synonyms": [
+      "Tung Chung"
+    ]
+  },
+  {
+    "value": "Lantau",
+    "synonyms": [
+      "Lantau",
+      "Island"
+    ]
+  }
+]

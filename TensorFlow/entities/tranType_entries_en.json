@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Rent",
+    "synonyms": [
+      "Rent",
+      "rent",
+      "rental",
+      "rented",
+      "lease",
+      "hire"
+    ]
+  },
+  {
+    "value": "Sales",
+    "synonyms": [
+      "Sales",
+      "sale",
+      "purchase",
+      "buy",
+      "selling"
+    ]
+  }
+]

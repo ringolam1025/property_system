@@ -1,0 +1,56 @@
+{
+  "id": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "name": "MakeAppointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MakeAppointment-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eeeb15dd-ccc5-4213-80d2-5d192dc0f4ea",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "property_id",
+          "value": "$property_id",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#propertyDetails.property_id",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

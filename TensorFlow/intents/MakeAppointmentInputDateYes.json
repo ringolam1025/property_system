@@ -1,0 +1,109 @@
+{
+  "id": "30e867ee-fb36-47a6-a763-f26cc7a82c43",
+  "parentId": "9fb81ec8-2be0-490b-bf89-8919119edbc7",
+  "rootParentId": "e43802f0-fca9-480e-999f-7f0c5e82d0fd",
+  "name": "MakeAppointmentInputDateYes",
+  "auto": true,
+  "contexts": [
+    "MakeAppointmentInputDate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeAppointment.MakeAppointment-custom.MakeAppointmentInputDate-yes",
+      "affectedContexts": [
+        {
+          "name": "MakeAppointmentInputDateYes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1ac817a7-ea18-4b25-8372-5d4d378d605d",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I have your email for send the confirmation email?"
+            },
+            {
+              "lang": "en",
+              "value": "Could you please let me know your email, and let me send the confirmation email to you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "41760584-c5cf-4717-b90a-1e51abca3208",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "username",
+          "value": "$username",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How can I call you?"
+            },
+            {
+              "lang": "en",
+              "value": "May I know what is your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "10246d84-7d44-4db8-bfe2-efd0dc523e04",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide phone number for our agent to contact you."
+            },
+            {
+              "lang": "en",
+              "value": "May I have your phone number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

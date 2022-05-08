@@ -1,0 +1,8 @@
+{
+    attachment: {
+      type: "image",
+      payload: {
+        url: "bar.png"
+      }
+    }
+  },

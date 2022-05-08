@@ -1,0 +1,57 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "Less than 6 months",
+      "\u003c 6 months",
+      "\u003c6 months",
+      "\u003c 6 mon",
+      "\u003c6mon"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "6 to 12 months",
+      "between 6 and 12 months",
+      "\u003e 6 and \u003c 12 months",
+      "\u003e6 and \u003c12 months"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "12 to 24 months",
+      "between 12 and 24 months",
+      "\u003e 12 and \u003c 24 months",
+      "\u003e12 and \u003c24 months"
+    ]
+  },
+  {
+    "value": "4",
+    "synonyms": [
+      "24 to 36 months",
+      "between 24 and 36 months",
+      "\u003e 24 and \u003c 36 months",
+      "\u003e24 and \u003c36 months"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "More than 36 months",
+      "\u003e 36 month",
+      "\u003e36 months",
+      "greater than 36 months"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "No property hold",
+      "No",
+      "Nothing",
+      "First time buyer"
+    ]
+  }
+]

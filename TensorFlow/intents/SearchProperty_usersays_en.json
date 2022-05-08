@@ -1,0 +1,746 @@
+[
+  {
+    "id": "c773ea23-8866-4f94-aab7-750f9b3332e3",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Wan Chi",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " property for ",
+        "userDefined": false
+      },
+      {
+        "text": "sales",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " and the ",
+        "userDefined": false
+      },
+      {
+        "text": "actual size",
+        "alias": "sizeType",
+        "meta": "@sizeType",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "over",
+        "alias": "operatorCondition",
+        "meta": "@operatorCondition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000ft",
+        "alias": "propertySize_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efc20ca6-a2b7-4f1a-b2ac-4f1db64050dd",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Wan Chi",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " property and the ",
+        "userDefined": false
+      },
+      {
+        "text": "actual size",
+        "alias": "sizeType",
+        "meta": "@sizeType",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "over",
+        "alias": "operatorCondition",
+        "meta": "@operatorCondition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000ft",
+        "alias": "propertySize_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "058b17e0-a293-4c4f-b062-e4382fcb9f3e",
+    "data": [
+      {
+        "text": "found the property in ",
+        "userDefined": false
+      },
+      {
+        "text": "TM",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " and the ",
+        "userDefined": false
+      },
+      {
+        "text": "actual size",
+        "alias": "sizeType",
+        "meta": "@sizeType",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "1000ft",
+        "alias": "propertySize_from",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "2000ft",
+        "alias": "propertySize_to",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c68814f7-27c8-42c5-b05f-331bd7cfd7db",
+    "data": [
+      {
+        "text": "found ",
+        "userDefined": false
+      },
+      {
+        "text": "TM",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " property is ",
+        "userDefined": false
+      },
+      {
+        "text": "below",
+        "alias": "operatorCondition",
+        "meta": "@operatorCondition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1394359f-e784-4576-859d-02c0f2656783",
+    "data": [
+      {
+        "text": "search property in ",
+        "userDefined": false
+      },
+      {
+        "text": "TM",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "buy",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " which ",
+        "userDefined": false
+      },
+      {
+        "text": "nearly sea",
+        "alias": "propertyRequirement",
+        "meta": "@propertyRequirement",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "017b1e43-c01f-4e82-9edd-1c62ee347bec",
+    "data": [
+      {
+        "text": "search property in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuen mun",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "buy",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "409753b8-a403-4425-a567-20f3d42ab90a",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuen mun",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": true
+      },
+      {
+        "text": " property for ",
+        "userDefined": false
+      },
+      {
+        "text": "buy",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b023982-1cfd-43a1-bbe0-ba3852ce8efe",
+    "data": [
+      {
+        "text": "provide ",
+        "userDefined": false
+      },
+      {
+        "text": "Wan Chi",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " property",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bdcb370-6933-4887-9069-ebaf5b368d4b",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " property in ",
+        "userDefined": false
+      },
+      {
+        "text": "Wan Chi",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a68f82fc-204f-4100-b1cc-8c7be52cb2b9",
+    "data": [
+      {
+        "text": "Rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " and the budget is ",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "20000",
+        "alias": "budget_to",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "518692b9-da24-4435-9d91-2b4cd41f6c40",
+    "data": [
+      {
+        "text": "I am looking property which is for ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " and the price is $",
+        "userDefined": false
+      },
+      {
+        "text": "10000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " per month",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c344ca9-0118-464d-91c5-f862db27608a",
+    "data": [
+      {
+        "text": "find property ",
+        "userDefined": false
+      },
+      {
+        "text": "actual size",
+        "alias": "sizeType",
+        "meta": "@sizeType",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "1000ft",
+        "alias": "propertySize_from",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ff6d96d-001a-4f19-b6a3-fb5e315982ef",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "TM",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": true
+      },
+      {
+        "text": " property the price which is between ",
+        "userDefined": false
+      },
+      {
+        "text": "100000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2000000",
+        "alias": "budget_to",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4acbbc22-e4a5-4d55-8bf0-c4cfa6094b45",
+    "data": [
+      {
+        "text": "search property in ",
+        "userDefined": false
+      },
+      {
+        "text": "TM",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": false
+      },
+      {
+        "text": " which ",
+        "userDefined": false
+      },
+      {
+        "text": "nearly sea",
+        "alias": "propertyRequirement",
+        "meta": "@propertyRequirement",
+        "userDefined": false
+      },
+      {
+        "text": " and the price is ",
+        "userDefined": false
+      },
+      {
+        "text": "below",
+        "alias": "operatorCondition",
+        "meta": "@operatorCondition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca6157c9-7ff1-40c4-aff6-c83cc301b0c7",
+    "data": [
+      {
+        "text": "find property ",
+        "userDefined": false
+      },
+      {
+        "text": "building size",
+        "alias": "sizeType",
+        "meta": "@sizeType",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "3000ft",
+        "alias": "propertySize_from",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "724d4350-1f56-4b9e-9a2c-e3ae12985451",
+    "data": [
+      {
+        "text": "search property the price is ",
+        "userDefined": false
+      },
+      {
+        "text": "200000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "5000000",
+        "alias": "budget_to",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0689154e-bf91-406f-85ce-aa301850ea1b",
+    "data": [
+      {
+        "text": "search property which have ",
+        "userDefined": false
+      },
+      {
+        "text": "sea view",
+        "alias": "propertyRequirement",
+        "meta": "@propertyRequirement",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "nearly MTR",
+        "alias": "propertyRequirement",
+        "meta": "@propertyRequirement",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f885391-7395-46d7-9867-847417da167d",
+    "data": [
+      {
+        "text": "search property the ",
+        "userDefined": false
+      },
+      {
+        "text": "selling",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": true
+      },
+      {
+        "text": " price within ",
+        "userDefined": false
+      },
+      {
+        "text": "1000000",
+        "alias": "budget_from",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5000000",
+        "alias": "budget_to",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35f93f6a-178c-441f-b6d1-3d1f20fb1ac6",
+    "data": [
+      {
+        "text": "search property for ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1a2ba09-695b-43b6-9438-24161e84e306",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": true
+      },
+      {
+        "text": " property",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26e0f773-35a9-4279-95a4-0c04d36ea346",
+    "data": [
+      {
+        "text": "find property in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Wan Chi",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "rent",
+        "alias": "tranType",
+        "meta": "@tranType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e3aebe-a3b1-4f0c-8da6-19f853587884",
+    "data": [
+      {
+        "text": "search property in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tin Shui Wai",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

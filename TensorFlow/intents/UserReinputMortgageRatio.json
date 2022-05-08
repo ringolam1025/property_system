@@ -1,0 +1,34 @@
+{
+  "id": "0e77ea13-487a-4746-9f47-cadf472a380e",
+  "name": "UserReinputMortgageRatio",
+  "auto": true,
+  "contexts": [
+    "mortgageRatio",
+    "mortgageYear"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

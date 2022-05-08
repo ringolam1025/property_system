@@ -1,0 +1,9 @@
+{
+  "id": "974de39c-acea-416d-8426-3b594266b2d9",
+  "name": "InquiryType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

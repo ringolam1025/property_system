@@ -1,0 +1,83 @@
+{
+  "id": "609e1a71-c226-419d-925a-a53c5deeffcf",
+  "name": "PropertyStampDuty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "PropertyStampDuty-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7b237c5a-c1f1-4f4d-91fa-458038f83aa5",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "property_id",
+          "value": "$property_id",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know the property id?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#propertyDetails.property_id",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "OK. Please tell me know some about you",
+            "Get it! I would like to ask you some question for calculate the stamp duty."
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Are you a HongKonger or buy for personal?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

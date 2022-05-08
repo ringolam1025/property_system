@@ -1,0 +1,84 @@
+{
+  "id": "91f5b350-f8c0-4401-88f6-45f10ab3e164",
+  "name": "PropertyMortgage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f63c7a5b-bb87-4e7b-b40b-e1b211037364",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "property_id",
+          "value": "$property_id",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9bbf8046-eb6a-4ba2-ba9d-2f908c72f36d",
+          "required": true,
+          "dataType": "@sys.percentage",
+          "name": "loanratio",
+          "value": "$loanratio",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the ratio of the loan?"
+            },
+            {
+              "lang": "en",
+              "value": "What is percentage of loan ratio?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cec8af43-747c-4930-9b91-b87998282814",
+          "required": true,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How long you need to loan?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

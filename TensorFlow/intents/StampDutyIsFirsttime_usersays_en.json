@@ -1,0 +1,58 @@
+[
+  {
+    "id": "131122ec-e202-4a27-9210-517ceafbe3b4",
+    "data": [
+      {
+        "text": "First time buyer",
+        "alias": "buyerType",
+        "meta": "@buyerType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "254daf33-1e11-4a1c-b62c-f411843abfe6",
+    "data": [
+      {
+        "text": "Commercial buyer",
+        "alias": "buyerType",
+        "meta": "@buyerType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "611d245b-b0bd-4c37-92d9-632b44c16a70",
+    "data": [
+      {
+        "text": "Residential buyer",
+        "alias": "buyerType",
+        "meta": "@buyerType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad5650f8-02ec-475d-960e-ce9562ae1fa4",
+    "data": [
+      {
+        "text": "First-time buyer",
+        "alias": "buyerType",
+        "meta": "@buyerType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

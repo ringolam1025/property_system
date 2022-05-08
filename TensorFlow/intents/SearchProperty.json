@@ -1,0 +1,156 @@
+{
+  "id": "fa02a440-2b1a-4dd1-b436-d35f83e0555f",
+  "name": "SearchProperty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "SearchPropert-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e22c6f3d-fa45-4c59-8921-712873ae50cb",
+          "required": true,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which district you are looking for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "db905bbe-2691-4c3e-a7ed-c6bbce2a50a2",
+          "required": false,
+          "dataType": "@propertyRequirement",
+          "name": "propertyRequirement",
+          "value": "$propertyRequirement",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4cba7294-c649-46ad-9f53-431f64275090",
+          "required": true,
+          "dataType": "@tranType",
+          "name": "tranType",
+          "value": "$tranType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which type of property you want? Buy or Rent?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9d625980-a671-4cea-a78f-3e8cdd5bd040",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "budget_from",
+          "value": "$budget_from",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "30ad1187-49b6-4c73-9e8f-7d78bd0827aa",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "budget_to",
+          "value": "$budget_to",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3417718c-2b7c-4ae1-920d-7e5cfe787de4",
+          "required": false,
+          "dataType": "@sizeType",
+          "name": "sizeType",
+          "value": "$sizeType",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "99cca798-a363-4a67-b763-100fe000efb5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "propertySize_from",
+          "value": "$propertySize_from",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0f2caa84-48d4-4e71-8213-b9345d5b68c8",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "propertySize_to",
+          "value": "$propertySize_to",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "69c04e13-2e74-4f2c-8d9e-e1e4a70165db",
+          "required": false,
+          "dataType": "@operatorCondition",
+          "name": "operatorCondition",
+          "value": "$operatorCondition",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

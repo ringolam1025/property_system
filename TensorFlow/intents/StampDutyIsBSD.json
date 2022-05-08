@@ -1,0 +1,76 @@
+{
+  "id": "cbd5687f-6e44-46db-9f79-72d6f5071cce",
+  "parentId": "609e1a71-c226-419d-925a-a53c5deeffcf",
+  "rootParentId": "609e1a71-c226-419d-925a-a53c5deeffcf",
+  "name": "StampDutyIsBSD",
+  "auto": true,
+  "contexts": [
+    "PropertyStampDuty-followup",
+    "propertyDetails"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PropertyStampDuty.PropertyStampDuty-custom",
+      "affectedContexts": [
+        {
+          "name": "propertyDetails",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "StampDutyIsBSD-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "65a012bf-12d4-4f7c-9f3e-b9bd1f8be99c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "needBSD",
+          "value": "$needBSD",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "May I know how long have you holding property in Hong Kong?",
+          "replies": [
+            "Less than 6 months",
+            "6 to 12 months",
+            "12 to 24 months",
+            "24 to 36 months",
+            "More than 36 months",
+            "No property hold"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

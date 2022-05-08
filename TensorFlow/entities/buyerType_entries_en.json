@@ -1,0 +1,25 @@
+[
+  {
+    "value": "Commercial",
+    "synonyms": [
+      "Commercial buyer",
+      "CommercialBuyer",
+      "Commercial Buyer"
+    ]
+  },
+  {
+    "value": "Residential",
+    "synonyms": [
+      "Residential buyer"
+    ]
+  },
+  {
+    "value": "FirstTime",
+    "synonyms": [
+      "First time buyer",
+      "1st time",
+      "First-time Buyer",
+      "First-Time Buyer"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7fecf95e-1d81-476b-b32e-671e0af36097",
+    "data": [
+      {
+        "text": "I would like to know ",
+        "userDefined": false
+      },
+      {
+        "text": "Tai Po",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21b75a40-672c-491d-99f4-2ea035f96a04",
+    "data": [
+      {
+        "text": "show me property in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kowloon City",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb831f3a-b759-45af-816a-267aaa027968",
+    "data": [
+      {
+        "text": "How about property in ",
+        "userDefined": false
+      },
+      {
+        "text": "Yau Ma Tei",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

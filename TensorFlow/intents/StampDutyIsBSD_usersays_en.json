@@ -1,0 +1,162 @@
+[
+  {
+    "id": "d62f5946-a316-4c5f-8aa1-a68ef8eb8f51",
+    "data": [
+      {
+        "text": "No",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", I buy for personal use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "520e2484-e7bd-409a-8b44-1c159f8942d2",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", I buy for the company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17fdbaae-57f9-4555-ada3-f19174538073",
+    "data": [
+      {
+        "text": "No",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " I come from other countries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbb809c2-c23c-467a-b305-6908752b2675",
+    "data": [
+      {
+        "text": "No",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63690ef6-f1bf-49d4-9ebd-f1955a161745",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "HKID",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6ed7ab0-f9ee-4769-82d8-f0ded49bbce0",
+    "data": [
+      {
+        "text": "Sure, I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Hongkonger",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bde875d-c9f0-4ec0-82ea-89eb8c873fc2",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Hongkonger",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a3a44b7-6e14-48b0-b5df-2daec59f99b5",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Hongkonger",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de639600-a11a-47f2-96fd-c8235f7f8f20",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "needBSD",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

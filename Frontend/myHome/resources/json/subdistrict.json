@@ -1,0 +1,40 @@
+{
+    "columns": [
+        {
+            "field": "sub_district_id",
+            "title":"#",
+            "db_type":"string",
+            "required":"1",
+            "sortable":"1",
+            "show_in_search":"1",
+            "show_in_list":"1",
+            "searchArea_class":"col-md-3",
+            "newModal_class":"col-md-6",
+            "sub_search":"0"
+         },
+         {
+            "field": "cName",
+            "title":"Chi. Name",
+            "db_type":"string",
+            "required":"1",
+            "sortable":"1",
+            "show_in_search":"1",
+            "show_in_list":"1",
+            "searchArea_class":"col-md-3",
+            "newModal_class":"col-md-6",
+            "sub_search":"0"
+         },
+         {
+            "field": "eName",
+            "title":"Eng. Name",
+            "db_type":"string",
+            "required":"1",
+            "sortable":"1",
+            "show_in_search":"1",
+            "show_in_list":"1",
+            "searchArea_class":"col-md-3",
+            "newModal_class":"col-md-6",
+            "sub_search":"0"
+         }
+    ]
+}

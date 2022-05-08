@@ -1,0 +1,75 @@
+{
+  "id": "59c5be62-bb02-4047-9580-8953f151681f",
+  "parentId": "526ed857-42b1-4e46-9def-2fbc826a07f3",
+  "rootParentId": "526ed857-42b1-4e46-9def-2fbc826a07f3",
+  "name": "WelcomeUserInputName",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "username",
+          "parameters": {},
+          "lifespan": 50
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ee63d02-d5c4-4e3f-b486-0f65cf431283",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "username",
+          "value": "$username",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Nice to meet you, $username",
+            "$username, thanks for the introduction.",
+            "It’s great connecting with you. $username"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "How can I help you?",
+          "replies": [
+            "Search property",
+            "Inquiry"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
